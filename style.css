@@ -1,0 +1,13 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	width: 500px;
+	height: auto;
+}
+
+img {
+	display: inline-block;
+}
